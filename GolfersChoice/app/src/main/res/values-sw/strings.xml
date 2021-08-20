@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Golfers\' Choice</string>
+        <string name="selected_language">Swahili</string>
+        <string name="language">Habari yako</string>
+        <string name="reset_pass_message">Andika barua pepe yako ya kurejesha akaunti</string>
+        <string name="new_account">Fungua Akaunti Mpya</string>
+        <string name="signup_desc">Enter you email and password to get started</string>
+        <string name="message">Angalia barua pepe yako upate ujumbe.</string>
+        <string name="log_in">Ingia</string>
+        <string name="login_desc">Weka barua pepe yako</string>
+
+        <string name="hello_world">Hello World</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="reset_pass_message">Kindly reset your password</string>
+    <string name="new_account">Create a new account</string>
+    <string name="signup_desc">Enter you email and password to get started</string>
+    <string name="message">Kindly check you email for a confirmation message.</string>
+    <string name="log_in">Login</string>
+    <string name="login_desc">Enter your email and password to get started.</string>
+
+    <string name="selected_language">English</string>
+    <string name="language">Hello There</string>
+    <string name="hello_world">Hello World</string>
+    <string name="app_name">Golfers\' Choice</string>
+    <string name="en">English</string>
+    <string name="data">Kindly enter your details to get started</string>
+    <string name="name">Name</string>
+    <string name="ds">Creed Bratton</string>
+    <string name="mn">Phone Number</string>
+    <string name="digits">0712345678</string>
+    <string name="mail">Email Address</string>
+    <string name="dse">creed@gmail.com</string>
+    <string name="next">Next</string>
+</resources>

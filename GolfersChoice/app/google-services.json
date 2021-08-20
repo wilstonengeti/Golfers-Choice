@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621689979228",
+    "project_id": "golfers--choice",
+    "storage_bucket": "golfers--choice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621689979228:android:bf604855bb3149f9514199",
+        "android_client_info": {
+          "package_name": "com.example.golferschoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621689979228-ocqpid2ruoro8cuh6c1plalk6vr64fdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr7i9TJ8dGfLnByT3wJor-AUyOgmllQwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621689979228-ocqpid2ruoro8cuh6c1plalk6vr64fdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
