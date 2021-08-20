@@ -87,7 +87,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             return;
         }
 
-        progressDialog.setMessage("You're almost There.....");
+        progressDialog.setMessage("Just a few steps remaining.....");
         progressDialog.show();
 
         // Sign in with email and password

@@ -15,7 +15,20 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/bold"
         android:text="@+id/greetings"
-        android:textColor="#3f9dff"
+        android:textColor="@color/orange"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/courses"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bold"
+        android:text="@string/liist"
+        android:textColor="@color/orange"
         android:textSize="24sp"
         android:textStyle="bold" />
 
