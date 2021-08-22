@@ -128,7 +128,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         }
         else if (view == link_forgotpassword){
             // Reset password through email
-            firebaseAuth.getInstance().sendPasswordResetEmail("muchai.samson10@gmail.com")
+            firebaseAuth.getInstance().sendPasswordResetEmail("wilstone.ngeti@strathmore.edu")
                     .addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {

@@ -12,7 +12,14 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
-        startActivity(intent);
+        overridePendingTransition(R.anim.abc_fade_in,R.anim.abc_fade_out);
+        setContentView(R.layout.activity_splash);
+        new android.os.Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                finish();
+                startActivity(new Intent(getApplicationContext(), LoginActivity.class));
+            }
+        },4000);
     }
 }
